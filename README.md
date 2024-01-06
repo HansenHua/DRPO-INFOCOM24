@@ -1,4 +1,4 @@
-# MFPO
+# DRPO
 This work "Federated Offline Policy Optimization with
 Dual Regularization" has been submitted in INFOCOM 2024.
 ## :page_facing_up: Description
@@ -32,7 +32,7 @@ python main.py halfcheetah-medium-expert-v2 DRPO test
 ```
 ## :computer: Training
 
-We provide complete training codes for MFPO.<br>
+We provide complete training codes for DRPO.<br>
 You could adapt it to your own needs.
 
 	```
@@ -42,7 +42,7 @@ You could adapt it to your own needs.
 ## :checkered_flag: Testing
 ### Testing
 	```
-	python main.py CartPole-v1 MFPO test
+	python main.py halfcheetah-medium-expert-v2 DRPO test
 	```
 
 ### Open issues:

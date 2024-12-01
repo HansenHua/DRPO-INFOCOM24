@@ -50,4 +50,4 @@ Models for testing is not updated now
 
 ## :e-mail: Contact
 
-If you have any question, please email `xingyuanhua@bit.edu.cn`.
+If you have any question, please email `huaxy24@mails.tsinghua.edu.cn`.

@@ -13,7 +13,7 @@ Specifically, the first regularization can incorporate conservatism into the loc
 1. Clone repo
     ```bash
     git clone https://github.com/HansenHua/DRPO-INFOCOM24.git
-    cd MFPO-Online-Federated-Reinforcement-Learning
+    cd DRPO-INFOCOM24
     ```
 2. Install dependent packages
     ```
